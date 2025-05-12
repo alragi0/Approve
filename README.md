@@ -41,8 +41,9 @@
   - `CHID` - Your Force subscribe channel id Get it from @MissRose_Bot
   - `FSUB` - Force subscribe channel username without `@`
   - `SUDO` - bot owners Id/ ids ( for broadcast and stats cmds). for multiple use space.
+  - `MONGO_URI` - from [Here](https://www.mongodb.com/)
   
   
 ### 💫 Credits
  - [Dan](https://github.com/alragi0) for pyrogram
- - [Me](https://github.com/ImDenuwan) for Nothing 😅
+ - [Me](https://github.com/alragi0) for Nothing 😅
