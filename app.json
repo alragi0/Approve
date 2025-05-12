@@ -38,7 +38,10 @@
     "MONGO_URI": {
       "description": "Enter Your URl For database from mongo [https://www.mongodb.com/]",
       "required":true
-    }
+    },
+    "Bot_USERNAME": {
+      "description": "Enter Your Bot username without @",
+      "required": true
         
   },
   
