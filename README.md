@@ -26,8 +26,12 @@
 
   ```ssh
   git clone https://github.com/alragi0/Approve
+  ```
+  ```ssh
   pip3 install -r requirements.txt
+  ```
   # fill config.py vars
+  ```ssh
   python3 bot.py
   ```
 
