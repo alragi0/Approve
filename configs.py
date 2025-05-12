@@ -8,5 +8,6 @@ class Config:
     CHID = int(getenv("CHID", "-1000112234"))
     SUDO = list(map(int, getenv("6460393623").split()))
     MONGO_URI = getenv("MONGO_URI", "")
+    BOT_USERNAME = getenv("BOT_USERNAME", "")
     
 cfg = Config()
