@@ -40,7 +40,6 @@
 ## 🏷 Environment Variables
   - `API_ID` - Your Telegram API ID.Get it [Here](my.telegram.org)
   - `API_HASH` - Your Telegram API HASH.Get it [Here](my.telegram.org)
-  - `MONGO_URI` - Add MongoDB Database URI.
   - `BOT_TOKEN` - Your Bot Token. Get it from [Here](https://t.me/BotFather)
   - `CHID` - Your Force subscribe channel id Get it from @MissRose_Bot
   - `FSUB` - Force subscribe channel username without `@`
