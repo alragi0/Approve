@@ -44,5 +44,5 @@
   
   
 ### 💫 Credits
- - [Dan](https://github.com/delivrance) for pyrogram
+ - [Dan](https://github.com/alragi0) for pyrogram
  - [Me](https://github.com/ImDenuwan) for Nothing 😅
