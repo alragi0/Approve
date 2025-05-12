@@ -36,7 +36,7 @@
       "required": true
     },
     "MONGO_URI": {
-      "description": "Enter Your URl For database from mongo",
+      "description": "Enter Your URl For database from mongo [https://www.mongodb.com/]",
       "required":true
     }
         
