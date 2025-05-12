@@ -10,3 +10,4 @@ services:
       - SUDO=${SUDO}
       - FSUB=${FSUB}
       - MONGO_URI=${MONGO_URI}
+      - BOT_USERNAME=${BOT_USERNAME}
