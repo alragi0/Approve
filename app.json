@@ -42,6 +42,7 @@
     "Bot_USERNAME": {
       "description": "Enter Your Bot username without @",
       "required": true
+    }
         
   },
   
